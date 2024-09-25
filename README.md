@@ -21,3 +21,6 @@ Smart Functionality
 
 ![pcb_top](https://github.com/user-attachments/assets/a09797f8-4980-4cdd-a15d-fc6839ce9aec)
 ![pcb_bottom](https://github.com/user-attachments/assets/0b748c1c-cb28-4375-9bf6-599453279499)
+
+
+For further information, please feel free to contact me.
