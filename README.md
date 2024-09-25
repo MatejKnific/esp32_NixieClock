@@ -14,3 +14,8 @@ Smart Functionality
 
 
 ![20240925_141829](https://github.com/user-attachments/assets/09e9811d-171b-4b0e-b804-68d3041622de)
+
+•	Curcit board
+
+![pcb_top](https://github.com/user-attachments/assets/a09797f8-4980-4cdd-a15d-fc6839ce9aec)
+![pcb_bottom](https://github.com/user-attachments/assets/0b748c1c-cb28-4375-9bf6-599453279499)
