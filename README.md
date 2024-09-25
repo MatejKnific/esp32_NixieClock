@@ -6,6 +6,7 @@ Introducing a sophisticated nixie clock designed for modern living. This advance
 Smart Functionality
 
 •	Automatically synchronizes time via an NTP server for precise accuracy.
+•	Intelligent software-driven anti-cathode poisoning feature to prolong the lifespan of the nixie tubes.
 
 
 # Photos
