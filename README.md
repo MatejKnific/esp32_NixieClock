@@ -4,6 +4,7 @@ Introducing a sophisticated nixie clock designed for modern living. This advance
 
 # Features
 Smart Functionality
+
 •	Automatically synchronizes time via an NTP server for precise accuracy.
 
 
